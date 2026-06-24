@@ -1,0 +1,45 @@
+## Hi, I'm Avijit Hazra 👋
+
+MASc Computer Engineering student at Memorial University of Newfoundland (MUN), 
+St. John's, Canada.
+
+Currently seeking an **8-month co-op** in FPGA / Digital Design / ASIC or Database 
+Administration — open to opportunities anywhere in Canada.
+
+---
+
+### What I work on
+
+- **Digital Design & VHDL** — asynchronous FIFOs, CDC synchronizers, FSM design, 
+  RTL testbench debugging (Cyclone V / DE1-SoC / DE10-Standard)
+- **Embedded & RTOS** — FreeRTOS on STM32, DDS signal generation, real-time 
+  scheduling analysis
+- **Database Administration** — 6+ years production experience with Oracle 19c, 
+  MySQL, SQL Server, MongoDB in financial-sector environments
+
+---
+
+### Featured projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Async FIFO — CDC Synchronizer & Writer FSM](https://github.com/[USERNAME]/async-fifo-vhdl) | Full async FIFO with Gray-code pointers, 4-stage CDC synchronizer, 6-state write FSM | VHDL · ModelSim |
+| [DDS Function Generator on FreeRTOS](https://github.com/[USERNAME]/dds-function-generator-freertos) | Multi-task DDS waveform generator with priority-inheritance mutex | C · FreeRTOS · STM32 |
+| [Gesture Recognition — HPS+FPGA](https://github.com/[USERNAME]/gesture-recognition-de10) | Real-time orientation & gesture detection integrating HPS and FPGA fabric | VHDL · Quartus · DE10 |
+| [FPGA Digital Clock](https://github.com/[USERNAME]/fpga-digital-clock) | BCD/7-segment clock with async key-press handling on Cyclone V | VHDL · DE1-SoC |
+
+---
+
+### Publication
+
+**Braille Gloves** — IEEE TENSYMP 2019  
+*An intelligent hand-glove to generate Bengali Braille characters for visually impaired people*  
+[doi: 10.1109/TENSYMP46218.2019.8971041](https://doi.org/10.1109/TENSYMP46218.2019.8971041)
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avijithazran-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/avijithazran)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Avijit--Hazra-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Avijit-Hazra-6)
+📧 avijithazra.n@outlook.com
