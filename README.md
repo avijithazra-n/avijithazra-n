@@ -25,7 +25,7 @@ Administration - open to opportunities anywhere in Canada.
 |---|---|---|
 | [Gesture Recognition - HPS+FPGA](https://github.com/avijithazra-n/gesture-recognition-de10) | Real-time orientation & gesture detection integrating HPS and FPGA fabric | VHDL · Quartus · DE10 |
 | [FPGA Digital Clock](https://github.com/avijithazra-n/24-hour-clock-DE-10-Standard) | BCD/7-segment clock with async key-press handling on Cyclone V | VHDL · DE1-SoC |
-| [Braille Gloves](https://github.com/avijithazra-n/Braille-Gloves) | Hand-Glove for Bengali Braille Generation. Arduino Uno |
+| [Braille Gloves](https://github.com/avijithazra-n/Braille-Gloves) | Hand-Glove for Bengali Braille Generation | Arduino Uno |
 
 ---
 
