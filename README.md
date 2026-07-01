@@ -23,10 +23,9 @@ Administration — open to opportunities anywhere in Canada.
 
 | Project | Description | Tools |
 |---|---|---|
-| [Async FIFO — CDC Synchronizer & Writer FSM](https://github.com/[USERNAME]/async-fifo-vhdl) | Full async FIFO with Gray-code pointers, 4-stage CDC synchronizer, 6-state write FSM | VHDL · ModelSim |
-| [DDS Function Generator on FreeRTOS](https://github.com/[USERNAME]/dds-function-generator-freertos) | Multi-task DDS waveform generator with priority-inheritance mutex | C · FreeRTOS · STM32 |
 | [Gesture Recognition — HPS+FPGA](https://github.com/[USERNAME]/gesture-recognition-de10) | Real-time orientation & gesture detection integrating HPS and FPGA fabric | VHDL · Quartus · DE10 |
 | [FPGA Digital Clock](https://github.com/[USERNAME]/fpga-digital-clock) | BCD/7-segment clock with async key-press handling on Cyclone V | VHDL · DE1-SoC |
+| [Async FIFO — CDC Synchronizer & Writer FSM](https://github.com/[USERNAME]/async-fifo-vhdl) | Full async FIFO with Gray-code pointers, 4-stage CDC synchronizer, 6-state write FSM | VHDL · ModelSim |
 
 ---
 
