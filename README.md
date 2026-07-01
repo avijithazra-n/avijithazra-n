@@ -23,9 +23,9 @@ Administration — open to opportunities anywhere in Canada.
 
 | Project | Description | Tools |
 |---|---|---|
-| [Gesture Recognition — HPS+FPGA](https://github.com/[USERNAME]/gesture-recognition-de10) | Real-time orientation & gesture detection integrating HPS and FPGA fabric | VHDL · Quartus · DE10 |
-| [FPGA Digital Clock](https://github.com/[USERNAME]/fpga-digital-clock) | BCD/7-segment clock with async key-press handling on Cyclone V | VHDL · DE1-SoC |
-| [Async FIFO — CDC Synchronizer & Writer FSM](https://github.com/[USERNAME]/async-fifo-vhdl) | Full async FIFO with Gray-code pointers, 4-stage CDC synchronizer, 6-state write FSM | VHDL · ModelSim |
+| [Gesture Recognition — HPS+FPGA](https://github.com/avijithazra-n/gesture-recognition-de10) | Real-time orientation & gesture detection integrating HPS and FPGA fabric | VHDL · Quartus · DE10 |
+| [FPGA Digital Clock](https://github.com/avijithazra-n/24-hour-clock-DE-10-Standard) | BCD/7-segment clock with async key-press handling on Cyclone V | VHDL · DE1-SoC |
+| [Braille Gloves — Intelligent Hand-Glove for Bengali Braille Generation](https://github.com/avijithazra-n/Braille-Gloves) | A two-handed glove system that converts Bengali text input from a PC into tactile Braille output via vibration motors on the fingertips — no Braille embosser or paper required. Designed for visually impaired Bengali-speaking people. Arduino Uno |
 
 ---
 
